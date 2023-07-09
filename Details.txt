@@ -1,0 +1,42 @@
+
+Topics:
+
+  function ---> Grouping a set of repeating statements into a single function
+
+  1. it can be modularized or reused
+  2. it can accept input parameters
+  3. it return something
+
+  types of function:
+    named function
+    anonymous function 
+    IIFE - Immediately Invoked Function Expression
+    arrow function - introduced in es6
+  
+  let, const: introduced in es6
+
+  var vs let vs const & block scoping
+    var: can be hoisted
+    let, const: cannot be hoisted
+
+    var: global or function level scoped varaible
+    let: blocked or function level scoped var
+
+  Es6: https://medium.com/recraftrelic/es5-vs-es6-with-example-code-9901fa0136fc
+    spread operator used in RHS
+    array & object destructure
+    Object property shorthand
+    Template literals
+    rest operator used in LHS
+
+Tasks:
+  Day 3: https://docs.google.com/document/d/1TPk3wqxDFi64WV-6hJOkYEzBaAYxNvZ4T9hRJGgvFjw/edit
+  Day 4: https://docs.google.com/document/d/1EIpyPItk5xMOQluX5m_cPD4KTI9AnkyqDlO26pbG4a8/edit
+
+Next Session:
+  function keyword vs arrow functions
+
+  Codekata:
+    number --> iteration through digits
+    Prime Number
+    Basic Sorting

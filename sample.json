@@ -1,0 +1,27 @@
+{
+  "name": "Sanjay",
+  "role": "Software Engineer",
+  "isIndian": true,
+  "age": 25,
+  "gender": "Male",
+  "height": 25,
+  "hobbies": [
+    {
+      "name": "singing",
+      "level": "intermediate"
+    },
+    {
+      "name": "singing",
+      "level": "intermediate"
+    },
+    {
+      "name": "singing",
+      "level": "intermediate"
+    }
+  ],
+  "skills": [
+    "Python",
+    "Java",
+    "JavaScript"
+  ]
+}
